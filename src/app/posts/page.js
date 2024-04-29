@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+import styles from "./Posts.module.css";
 
 const res = await fetch("http://localhost:5000/posts", {
   cache: "no-store",
@@ -9,7 +10,7 @@ const posts = await res.json();
 const PostPage = async () => {
   return (
     <div className="w-full">
-      <h1 className="text-2xl">Total Post:{posts.length}</h1>
+      <h1 className={styles.header_text}>Total Post:{posts.length}</h1>
       {posts.map((post) => (
         <div
           key={post?.id}
