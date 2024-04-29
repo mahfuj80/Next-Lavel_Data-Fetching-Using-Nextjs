@@ -1,1 +1,40 @@
-{}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Depths of the Ocean",
+      "description": "Embark on a journey beneath the waves to discover the mysteries of the ocean. From vibrant coral reefs to the darkest abyss, encounter fascinating marine life and uncover the secrets hidden in the depths.",
+      "likes": 102
+    },
+    {
+      "id": 2,
+      "title": "The Art of Astrophotography",
+      "description": "Capture the beauty of the cosmos through the lens of astrophotography. Learn techniques to photograph distant galaxies, nebulae, and celestial phenomena, and marvel at the wonders of the universe.",
+      "likes": 75
+    },
+    {
+      "id": 3,
+      "title": "A Culinary Journey Through Italy",
+      "description": "Indulge your senses in the flavors of Italy as you embark on a gastronomic adventure. From the rich pasta dishes of Tuscany to the aromatic seafood of Sicily, savor the diverse tastes of Italian cuisine.",
+      "likes": 120
+    },
+    {
+      "id": 4,
+      "title": "Mindfulness Meditation for Beginners",
+      "description": "Discover the transformative power of mindfulness meditation. Cultivate inner peace, reduce stress, and enhance your overall well-being with simple yet effective meditation practices.",
+      "likes": 88
+    },
+    {
+      "id": 5,
+      "title": "Exploring Ancient Ruins: Lost Civilizations",
+      "description": "Uncover the remnants of lost civilizations as you journey through ancient ruins around the world. From the majestic pyramids of Egypt to the enigmatic stone cities of South America, delve into the mysteries of the past.",
+      "likes": 95
+    },
+    {
+      "id": 6,
+      "title": "The Art of Japanese Tea Ceremony",
+      "description": "Experience the elegance and tranquility of the Japanese tea ceremony. Learn the intricate rituals of preparing and serving matcha tea, and immerse yourself in the beauty of traditional Japanese culture.",
+      "likes": 112
+    }
+  ]
+}
